@@ -1,8 +1,8 @@
 {
-  "name": "mongoose-fuzzy-searching",
-  "version": "2.0.2",
-  "author": "Vassilis Pallas <vspallas@gmail.com>",
-  "description": "Mongoose fuzzy searching plugin",
+  "name": "@tahara-san/mongoose-fuzzy-searching",
+  "version": "1.0.0",
+  "author": "Taharasan <naonobu.tahara@gmail.com>",
+  "description": "Just a Mongoose fuzzy searching plugin with bumped dep versions",
   "main": "index.js",
   "scripts": {
     "lint:fix": "eslint --fix .",
@@ -36,9 +36,9 @@
     "mongodb"
   ],
   "bugs": {
-    "url": "https://github.com/VassilisPallas/mongoose-fuzzy-searching/issues"
+    "url": "https://github.com/tahara-san/mongoose-fuzzy-searching/issues"
   },
-  "homepage": "https://github.com/VassilisPallas/mongoose-fuzzy-searching",
+  "homepage": "https://github.com/tahara-san/mongoose-fuzzy-searching",
   "license": "MIT",
   "peerDependencies": {
     "mongoose": "6.4.x"
